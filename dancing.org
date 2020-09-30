@@ -149,8 +149,10 @@ Be careful to stay in the same spot on the floor; it's easy to drift backwards[f
 - *In*: Towards the center line
 - *Out*: Away from the center line
 - *Minor set*: A portion of the set that's doing an iteration of the dance together. In a three-couple dance, this is a group of three couples (even if the entire set has twenty couples).
-- *Active (or first) couple*: The couple that starts at the top of a minor set and tends to play the most involved role in the dance
+- *Active (or first) couple*: The couple that starts at the top of a minor set and tends to play the most involved role in the dance. Also called the *ones*.
 - *Supporting couples*: The couples in a minor set that are not the active couple. They still dance, though!
+- *Second couple*: The couple that comes after the first couple. Also called the *twos*.
+- *Third, fourth, etc. couple*: c.f. ``second couple".
 - *Out (or neutral[fn::As Thomas Wilson calls them]) couples*: Couples not currently included in a minor set, who aren't dancing a particular iteration of the dance. They will dance later, though!
 
 * Progression
@@ -167,9 +169,9 @@ The standard formula is to have a line of men facing a line of their female part
 - *Supporting couples move up by one each time through the dance*
 - *Your role changes when you reach the top or bottom of the set*
 
-Most period dances are for three couples ("triple minors") but you may find yourself dancing a duple minor and their progression is a little easier to understand, so let's start with that.
+Most period dances are for three couples ("triple minors") but you may find yourself dancing a duple minor and their progression is a little easier to understand, so let's start with that. For both of these scenarios, read them slowly and try to really think through why things are the way they are—don't just let your eyes glaze over the letters while you chuckle and nod.
 
-*** Two-couple Progression
+*** Two-Couple Progression
 
 Imagine that you have a six-couple set, with couples A, B, C, D, E, and F.
 
@@ -197,20 +199,65 @@ A has been active, but is out of people to dance with…so they're out! C dances
 A and D, having reached the bottom/top, *change roles*. D becomes active and dances with E. C is with F. B dances with A, who is now the supporting couple. They end E, D, F, C, A, B.
 
 **** More iterations
-The logic is the same, but the order is thus:
-| At the end of the _____ iteration | The order is     |
+The logic is the same, but the order is thus (brackets indicate minor sets):
+| At the start of the _____ iteration | The order is     |
 |---------------------------------+------------------|
-| 8th                             | E, F, D, A, C, B |
-| 9th                             | F, E, A, D, B, C |
-| 10th                            | F, A, E, B, D, C |
-| 11th                            | A, F, B, E, C, D |
-| 12th                            | A, B, F, C, E, D |
+| 8th                             | E, [D, F], [C, A], B |
+| 9th                             | [E, F], [D, A], [C, B] |
+| 10th                            | F, [E, A], [D, B], C |
+| 11th                            | [F, A], [E, B], [D, C] |
+| 12th                            | A, [F, B], [E, C], D |
+| 13th                            | [A, B], [F, C], [E, D] |
 
 And so on and so forth. The dance continues until the music stops!
 
 **** A Note
 If you have done modern country dancing, this is /not/ the same progression! The period way is to start with a single active couple and leave everyone out until that original couple reaches them. The modern way is to start with many active couples (in this case, A, C, and E would have all started as actives). So couples at the bottom of the set get a nice break where they can catch their breath or chat or whatever. It can be nice to have a breather! I believe this is also why some dances lasted over an hour[fn::Wilson, 5 and many other sources]; if you had fifty couples in the dance[fn::Wilson, 5] it could take rather a while for the bottom ones to even start moving.
 
+*** Three-Couple Progression
+
+Now imagine that that a six-couple set is dancing a triple minor dance.
+
+**** First iteration
+A, B, and C dance together. A is the active couple, both B and C are supporting. Since B comes after the active couple they are also known as the ``second couple", and similarly C is the ``third couple". The iteration ends in the order B, A, C, D, E, F.
+
+**** Second iteration
+*Active couples remain active*, so A dances with C (the second couple) and D (the third couple). B is at the top and would like to become active, but there aren't any supporting couples. Note that C was the third couple last time and the second couple this time; supporting couples need to pay extra attention to which role they're dancing. The iteration ends in the order B, C, A, D, E, F.
+
+**** Third iteration
+*Active couples remain active*, so A dances with D (second couple) and E (third couple). B /still/ doesn't haven't enough supporting couples (C would be the second couple, but there's nobody to be the third). This ends in the order B, C, D, A, E, F.
+
+**** Fourth iteration
+Now we're off to the races. B finally has enough people to dance with, so they dance with C (second) and D (third). A continues dancing, now with E (second) and F (third). Note that the pattern of supporting couples alternating roles continues. D was the third, second, and now the third again. E was the third and is now the second. And so on and so forth. This iteration ends C, B, D, E, A, F.
+
+**** Fifth iteration
+Imagine that we had 26 couples, A through Z. A would keep working their way down the set as they have been, and every three times a new couple would become active (A was active starting the first time, B became active the fourth time, C will become active the seventh time, D the tenth, etc.). In the interest of expedience, though, I've made this set only have six couples, and the reason is so that we can talk about what A does at the bottom of the set. C is definitely out, and B is dancing with D and E, leaving A and F together at the bottom. There are two choices.
+
+1. Traditionally[fn::I'm still looking for real evidence], A would dance with F and an imaginary couple. The third couple's part usually isn't very involved, so A and F can do what's expected even without real people dancing the third part. Modern people would say that ``the threes are ghosts" or ``the first and second couple dance with ghosts". This is more fun for A and F and has the helpful property of progressing them (they end in the order F-A), but depending on the dance can sometimes be a little confusing.
+2. Another option is for A and F to sit out /but progress anyway/. That is, they don't dance, but exchange places by walking. This is neither as fun nor as elegant, but can be a nice breather.
+
+Regardless, at the end of the fifth iteration the order is C, D, B, E, F, A.
+
+**** More iterations
+
+| At the start of the _____ iteration | The order is                 |                                                              |
+|-----------------------------------+------------------------------+--------------------------------------------------------------|
+| 6th                               | C, D, [B, E, F] A            |                                                              |
+| 7th                               | [C, D, E], [B, F, A]         | A, having sat out at the bottom, becomes a supporting couple |
+| 8th                               | D, [C, E, F], [B, A, ghosts] |                                                              |
+| 9th                               | D, E, [C, F, A], B           |                                                              |
+| 10th                              | [D, E, F], [C, A, B]         |                                                              |
+
+And so on and so forth. The dance continues until the music stops! It takes longer to become an active couple in triple minors (since a new couple is activated every three times instead of every other time), so be prepared for them to be run more times to compensate.
+
+*** Conclusion
+
+Progression can be intimidating since it feels like math, but rest assured that it becomes intuitive. For very inexperienced dancers, it can be helpful to warm them up to it:
+
+1. Start by forming sets and then talking it through while people walk into the appropriate spots: "This is the first time through, so Adam and Abe are dancing with Betsy and Beth. They finish having switched places, and now Adam and Abe are ready to dance with Charles and Christina…"
+2. Have everyone dance a /very/ short and simple dance (I like to use something like "1C and 2C dance 4H round and back; 1C turn by the right and cast into second place") so that the focus is on getting a lot of progression in, not figuring out difficult figures.
+3. Graduate to a "real" dance that starts and ends with very forgiving figures so that dancers have time to scramble into the right spot.
+4. Be ready to coordinate with the music to take little pauses between iterations while people figure out where they need to go.
 
 * Common Figures
 
