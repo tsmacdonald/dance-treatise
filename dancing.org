@@ -15,7 +15,7 @@ Instead, this is intended as a crash course to get late 18th- and early 19th-cen
 
 - I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible.
 
-- I will be using "man" and "woman" to indicate the people dancing particular roles. They are /roles/, and not an indication of any larger personal truth. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
+- I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /roles/, and not an indication of any larger personal truth. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
 
 * Position and Posture
 
@@ -27,9 +27,7 @@ Finally, good dance position helps prevent minor pains and more serious injuries
 
 ** Standing
 
-There is quite a bit of overlap between the position of a period country dancer, the position of a period soldier, and the position of a modern ballet dancer. All emphasize a straight back and open hips; the most significant distinction is the position of the feet and arms.
-
-The key element is standing up straight, which does /not/ mean pulling your shoulders back and sticking out your belly.
+There is quite a bit of overlap between the position of a period country dancer, the position of a period soldier, and the position of a modern ballet dancer. All emphasize a straight back and open hips (which does /not/ mean pulling your shoulders back and sticking out your belly); the most significant distinction is the position of the feet and arms, which are less important and will be addressed later.
 
 Some people imagine putting headlights on their pelvis and then standing so that the headlights shine parallel to the ground, not down into it (it will feel like you're rotating your pelvis up to bring the beams of light up). Others think of ``zipping up" the stomach—pulling up on the front of the pelvis and tightening the butt muscles. Others speak of avoiding ``Donald Duck butt" or ``leading with the chest". Whatever the method, your vertebrae should end up stacked on top of each other, your shoulders should be above your hips, and the area below the belt should feel…ah...slightly exposed.
 
@@ -39,7 +37,7 @@ The position of a standing dancer, then, is standing up straight, having good tu
 
 ** Moving
 
-The specifics of footwork will be addressed below, but all propulsion should maintain turnout. When taking a step lead with the toe and let the toe strike the ground first. At sufficient speeds the heels may /never even/ hit the ground. This is similar to the Prussian step, but…dancier.
+The specifics of footwork will be addressed below, but all propulsion should maintain turnout. When taking a step lead with the toe and let the toe strike the ground first. At sufficient speeds the heels may never even hit the ground. This is similar to the Prussian step, with its feet reaching out over the ground to glide over it, but…dancier.
 
 * Traveling Steps
 One of the biggest differences between period dancing and modern English country dancing is simply how one moves. In the period, nobody walked. The single biggest improvement reenactors could make to their dancing is by using a dance step to move around!
@@ -62,7 +60,7 @@ A slightly fancier way of getting around. I like to call it out as ``step-close-
 
 1. With your weight on your left leg, reach out with your right foot (toe pointed! Turnout maintained!) and step onto it.
 2. Slide the left foot in behind the right foot (ideally with the left foot's instep touching the right foot's heel: third position) and transfer weight onto the left foot.
-3.Reach out with your right foot again, as in step #1.
+3. Reach out with your right foot again, as in step #1.
 4. Hop forward on the right foot, /meanwhile/ pull the left leg through, ready for the /left/ foot to reach out.
 
 The process then repeats with the sides switched. Note that when skipping you get both the right and the left with one bar of music, but with skip-change of step just one side fills the whole bar and you need a second bar to do the other side.
@@ -132,11 +130,13 @@ Then repeat with the sides switched.
 
 Those four steps occupy two bars of music, so do /not/ repeat.
 
+Be careful to stay in the same spot on the floor; it's easy to drift backwards[fn::AD, 14].
+
 ** Other options
 
-Peacock has a number of fancier options, most of which are Quite Scottish and also Very Athletic. I may put them in here at some point, but I do think that if you're ready for them you're ready to just read Peacock.
+- Peacock has a number of fancier options, most of which are Quite Scottish and also Very Athletic. I may put them in here at some point, but I do think that if you're ready for them you're ready to just read Peacock.
 
-Please let me know if you have found juicy options elsewhere.
+- Please let me know if you have found juicy options elsewhere.
 
 * Terminology
 
