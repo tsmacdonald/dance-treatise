@@ -11,9 +11,11 @@ Instead, this is intended as a crash course to get late 18th- and early 19th-cen
 
 ** A few disclaimers
 
-Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations is out of scope.
+- Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations is out of scope.
 
-Additionally, I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible.
+- I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible.
+
+- I will be using "man" and "woman" to indicate the people dancing particular roles. They are /roles/, and not an indication of any larger personal truth. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
 
 * Position and Posture
 
@@ -21,7 +23,7 @@ Dancing is frequently defined as ``moving to music", but  there is much to be sa
 
 Similarly, all movement is designed to come from someone in the position of a dancer and can look especially incongrous otherwise.
 
-Finally, for those already in good shape, good dance position helps prevent minor pains and more serious injuries. (For those with an injury history or some other ailment, please do something responsible.)
+Finally, good dance position helps prevent minor pains and more serious injuries (though you may be a little tight or have weak core muscles at first).
 
 ** Standing
 
@@ -31,35 +33,47 @@ The key element is standing up straight, which does /not/ mean pulling your shou
 
 Some people imagine putting headlights on their pelvis and then standing so that the headlights shine parallel to the ground, not down into it (it will feel like you're rotating your pelvis up to bring the beams of light up). Others think of ``zipping up" the stomach—pulling up on the front of the pelvis and tightening the butt muscles. Others speak of avoiding ``Donald Duck butt" or ``leading with the chest". Whatever the method, your vertebrae should end up stacked on top of each other, your shoulders should be above your hips, and the area below the belt should feel…ah...slightly exposed.
 
-This established, it's then easy to have good turnout. Turnout comes not from the knees (twisting the knees will wreck them) but from the hips. Opening up the hips as above lets each leg rotate out in its entirety; your heels will naturally come to the center and your toes will naturally point more to the side. Having good turnout and ``being a flexible person" are mostly unrelated; achieving turnout is more about technique than having lengthened muscles.
+This established, it's then easy to have good turnout. Turnout comes not from the knees (twisting the knees will wreck them) but from the hips. Opening up the hips as above lets each leg rotate out in its entirety; your heels will naturally come to the center and your toes will naturally point more to the side. Having good turnout and ``being a flexible person" are mostly unrelated; achieving turnout is more about technique than having lengthened muscles. Don't worry about exactly what angle your feet make; 90° is great. Ballet dancers can do 180°, but we're not doing ballet.
 
 The position of a standing dancer, then, is standing up straight, having good turnout, letting the heels touch each other and the feet form a 90° angle, and letting the arms rest loosely at one's sides (the elbows with a natural bend).
 
 ** Moving
 
-The specifics of footwork will be addressed below, but effectively all propulsion should come from the toe and maintain turnout. When taking a step lead with the toe and let the toe strike the ground first. At sufficient speeds the heels may /never/ hit the ground.
+The specifics of footwork will be addressed below, but all propulsion should maintain turnout. When taking a step lead with the toe and let the toe strike the ground first. At sufficient speeds the heels may /never even/ hit the ground. This is similar to the Prussian step, but…dancier.
 
 * Traveling Steps
 One of the biggest differences between period dancing and modern English country dancing is simply how one moves. In the period, nobody walked. The single biggest improvement reenactors could make to their dancing is by using a dance step to move around!
 
 ** In two or four
-Most dancing is in reel time, which in the 18th century was either 2/2 or 6/8. Surprisingly, only the details change between the two: the general idea is the same in either meter. The below steps also apply to strathspeys (which are in 4/4[fn::Macdonald] and slower), but strathspeys are less likely to be found in the wild.
+Most dancing is in reel time, which in the 18th century was either 2/2 or 6/8. Surprisingly, only the details change between the two: the general idea is the same in either meter. The below steps also apply to strathspeys (which are in 4/4[fn::Macdonald] and slower), but strathspeys are less likely to be found in the wild[fn::Though native to and common in the Scottish Highlands, they seem to have only been briefly popular among non-Highlanders at the end of the 18th century].
+
+*** Skipping[fn::AD, 14]
+The most basic option. You can call it as "right-hop-left-hop".
+
+1. With your weight on your left leg, reach out with your right foot (toe pointed! Turnout maintained!) and step onto it.
+2. Hop forward on your right foot.
+3. With your weight now on your /right/ leg, reach out with your left foot and step onto it.
+4. Hop forward on your left foot.
+
+Repeat as needed. Each cycle (#1-4) occupies one bar of music, or two beats (with the beats falling on #1 and #3).
 
 *** Skip-change-of-step (kemshóole[fn::Peacock, 91])
-The core way of getting somewhere. I like to call it out as ``step-close-step-hop". To wit:
+A slightly fancier way of getting around. I like to call it out as ``step-close-step-hop". To wit:
 
 1. With your weight on your left leg, reach out with your right foot (toe pointed! Turnout maintained!) and step onto it.
 2. Slide the left foot in behind the right foot (ideally with the left foot's instep touching the right foot's heel: third position) and transfer weight onto the left foot.
 3.Reach out with your right foot again, as in step #1.
 4. Hop forward on the right foot, /meanwhile/ pull the left leg through, ready for the /left/ foot to reach out.
 
-The process then repeats with the sides switched. Each cycle (#1-4) occupies one bar of music.
+The process then repeats with the sides switched. Note that when skipping you get both the right and the left with one bar of music, but with skip-change of step just one side fills the whole bar and you need a second bar to do the other side.
 
-Teaching it can be tricky. The key element of the step is handling momentum on step #4: pulling one leg through in a continuous motion and using its weight and your forward motion to effect a hop on the other foot. Therefore, doing it slowly doesn't really translate to doing it at speed.
+Teaching it can be tricky. The key element of the step is handling momentum on step #4: pulling one leg through in a continuous motion and using its weight and your forward motion to effect a hop on the other foot. Therefore, doing it slowly doesn't really translate to doing it at speed since the momentum is all out of whack.
 
 Instead, I have dancers start by doing a elementary-school-style gallop in a circle—leading with the right foot and always bringing the left foot up behind it. Once everyone's galloping I have them switch to leading with the left foot.  Then I have them do eight gallops on the right followed by eight on the left, then four and four, then two and two and two and two. Alternating by two is equivalent to the desired dance step; all that's left is fine-tuning the footwork (pointed toes! Good turnout! Closing in third position!).
+
 *** Peacock's variation
 Francis Peacock suggests that one ``may introduce a very lively" variation by, effectively, galloping by four and four instead of by two and two. When dancing it does make a surprisingly big difference, both to the dancer and to the observers!
+
 ** In three (quicktime)
 Shockingly, there are a number of period dances in three (almost always 9/8) and, as far as I know, zero explanations of the relevant footwork. The folk tradition has two candidates. Both are based on skip-change-of-step as explained above, but need to have six bits instead of four bits to work in the new meter. Choose your favorite; it doesn't really matter which one you do.
 
@@ -82,7 +96,7 @@ Shockingly, there are a number of period dances in three (almost always 9/8) and
 
 In other words, steps 1 and 2 are repeated before continuing on as normal.
 
-I have only ever taught these by demonstrating, explaining the basics in words, and then playing 9/8 music for several minutes while letting people roam around the dance floor working it out on their own. There may be a better way of doing this, but that's for you to figure out.
+I have only ever taught these by demonstrating, explaining the basics in words, and then playing 9/8 music for several minutes while letting people roam around the dance floor working it out on their own. There may be a better way of doing this, but that's for you to figure out. It certainly shouldn't be attempted until people are very confident doing it in 2.
 
 * Setting Steps
 
@@ -100,7 +114,7 @@ I call this as ``right-left-right <silence> left-right-left"
 
 Then repeat with the sides switched. For bonus points, try to land on your toes, point your toes, and generally look light on your feet.
 
-** The pas de basque
+** The pas de basque[fn::I'm unfortunately still looking for a source here...caveat lector]
 This is a classier version of the cop-out.
 
 1. Step onto the right foot
@@ -110,7 +124,7 @@ This is a classier version of the cop-out.
 
 Then repeat with the sides switched.
 
-** The back-step (minor kemkóssy[fn::Peacock, 92])
+** The back-step[fn::AD, 14] (minor kemkóssy[fn::Peacock, 92])
 1. Put your right foot /behind/ your left one
 2. Hop forward on your right foot as you swing your left leg out, ready to
 3. Put your left foot behind your right one
@@ -118,11 +132,89 @@ Then repeat with the sides switched.
 
 Those four steps occupy two bars of music, so do /not/ repeat.
 
+** Other options
+
+Peacock has a number of fancier options, most of which are Quite Scottish and also Very Athletic. I may put them in here at some point, but I do think that if you're ready for them you're ready to just read Peacock.
+
+Please let me know if you have found juicy options elsewhere.
+
 * Terminology
+
+- *Set:* A group of people dancing together, and the formation in which they stand. With enough people there may be multiple sets spread throughout the room.
+- *Top (or head) of the set*: The part of the set closest to the band
+- *Bottom (or foot) of the set*: The part of the set farthest from the band
+- *Up*: Towards the top of the set
+- *Down*: Towards the bottom of the set
+- *Center line*: An imaginary line going through the center of the set from top to bottom
+- *In*: Towards the center line
+- *Out*: Away from the center line
+- *Minor set*: A portion of the set that's doing an iteration of the dance together. In a three-couple dance, this is a group of three couples (even if the entire set has twenty couples).
+- *Active (or first) couple*: The couple that starts at the top of a minor set and tends to play the most involved role in the dance
+- *Supporting couples*: The couples in a minor set that are not the active couple. They still dance, though!
+- *Out (or neutral[fn::As Thomas Wilson calls them]) couples*: Couples not currently included in a minor set, who aren't dancing a particular iteration of the dance. They will dance later, though!
 
 * Progression
 
+In most cases, a dance will be done 6 or 8 or 100 times in a row, with individual people playing different roles each time through. ``Progression" refers to the mechanics of getting people in place to dance a different role the next time through.
+
+** Most of the Time (Longways Sets)
+
+The standard formula is to have a line of men facing a line of their female partners. Progression can induce a lot of stress and chaos, so I encourage you to remember these maxims:
+
+- *Active couples remain active until they reach the bottom of the set*
+- *Supporting couples remain supporting until they reach the top of the set*
+- *Active couples move down by one each time through the dance*
+- *Supporting couples move up by one each time through the dance*
+- *Your role changes when you reach the top or bottom of the set*
+
+Most period dances are for three couples ("triple minors") but you may find yourself dancing a duple minor and their progression is a little easier to understand, so let's start with that.
+
+*** Two-couple Progression
+
+Imagine that you have a six-couple set, with couples A, B, C, D, E, and F.
+
+**** First iteration
+A and B dance together. The other four couples are out. Everyone ends in the order B, A, C, D, E, F.
+
+**** Second iteration
+*Active couples remain active*, so A dances with their supporting couple, C. Everyone else is out, including B. The dance ends B, C, A, D, E, F.
+
+**** Third iteration
+*Supporting couples remain supporting*, so C is still a supporting couple. Meanwhile, B has reached the top, so their *role changes* to being active. Therefore, B and C dance together. Meanwhile, *active couples remain active*, so A dances with D. Note that E and F are /still/ sitting out. The dance ends C, B, D, A, E, F.
+
+**** Fourth iteration
+*Active couples remain active* and that includes B, so they dance with D. A dances with E. C and F are out. It ends C, D, B, E, A, F.
+
+**** Fifth iteration
+Sit down and think about this, and try not to cheat. Who dances with who? Who is out? What order do they end in?
+
+C becomes active and dances with D. B remains active and dances with E. A remains active and dances with F. Everyone ends D, C, E, B, F, A.
+
+**** Sixth iteration
+A has been active, but is out of people to dance with…so they're out! C dances with E; B dances with F. They end D, E, C, F, B, A.
+
+**** Seventh iteration
+A and D, having reached the bottom/top, *change roles*. D becomes active and dances with E. C is with F. B dances with A, who is now the supporting couple. They end E, D, F, C, A, B.
+
+**** More iterations
+The logic is the same, but the order is thus:
+| At the end of the _____ iteration | The order is     |
+|---------------------------------+------------------|
+| 8th                             | E, F, D, A, C, B |
+| 9th                             | F, E, A, D, B, C |
+| 10th                            | F, A, E, B, D, C |
+| 11th                            | A, F, B, E, C, D |
+| 12th                            | A, B, F, C, E, D |
+
+And so on and so forth. The dance continues until the music stops!
+
+**** A Note
+If you have done modern country dancing, this is /not/ the same progression! The period way is to start with a single active couple and leave everyone out until that original couple reaches them. The modern way is to start with many active couples (in this case, A, C, and E would have all started as actives). So couples at the bottom of the set get a nice break where they can catch their breath or chat or whatever. It can be nice to have a breather! I believe this is also why some dances lasted over an hour[fn::Wilson, 5 and many other sources]; if you had fifty couples in the dance[fn::Wilson, 5] it could take rather a while for the bottom ones to even start moving.
+
+
 * Common Figures
+
+* Your Arms
 
 * Of the Music
 
@@ -133,5 +225,6 @@ Those four steps occupy two bars of music, so do /not/ repeat.
 * Works Cited
 
 - [AD] A. D. Dancing Master. /Country-Dancing made Plain and Easy to Every Capacity/. London, 1764.
-- [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/, 2019.
-- [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. Aberdeen, 1805
+- [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/.
+- [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. Aberdeen, 1805.
+- [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. London, [1820].
