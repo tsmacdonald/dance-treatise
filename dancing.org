@@ -72,6 +72,9 @@ Instead, I have dancers start by doing a elementary-school-style gallop in a cir
 *** Peacock's variation
 Francis Peacock suggests that one ``may introduce a very lively" variation by, effectively, galloping by four and four instead of by two and two. When dancing it does make a surprisingly big difference, both to the dancer and to the observers!
 
+*** Slip Stepping
+TODO
+
 ** In three (quicktime)
 Shockingly, there are a number of period dances in three (almost always 9/8) and, as far as I know, zero explanations of the relevant footwork. The folk tradition has two candidates. Both are based on skip-change-of-step as explained above, but need to have six bits instead of four bits to work in the new meter. Choose your favorite; it doesn't really matter which one you do.
 
@@ -153,7 +156,9 @@ Be careful to stay in the same spot on the floor; it's easy to drift backwards[f
 - *Supporting couples*: The couples in a minor set that are not the active couple. They still dance, though!
 - *Second couple*: The couple that comes after the first couple. Also called the *twos*.
 - *Third, fourth, etc. couple*: c.f. ``second couple".
+- *First, second, third, etc. place* The spot on the floor initially occupied by the first (or whichever) couple. As the dance continues, the second couple may, for example, end up in first place, so it can be helpful to refer to things in terms of geography instead of people.
 - *Out (or neutral[fn::As Thomas Wilson calls them]) couples*: Couples not currently included in a minor set, who aren't dancing a particular iteration of the dance. They will dance later, though!
+- *Neighbor*: The person next to you. For the first man, it's the second man. In a three-couple set, the second (wo)man has two neighbors: the first and third (wo)men.
 
 * Progression
 
@@ -260,6 +265,80 @@ Progression can be intimidating since it feels like math, but rest assured that 
 4. Be ready to coordinate with the music to take little pauses between iterations while people figure out where they need to go.
 
 * Common Figures
+If footwork is about how to do something, figures are about where to go in the first place: they refer to the motion of dancers over the floor and through time, and as such have a /path/ and a /duration/. Some involve only moving a few feet (or moving in place), others require going halfway across the room. Some are for an individual dancer, others for a couple, and others for larger groups of dancers. A country dance is primarily identified by its sequence of figures; the footwork is more ornamental than substantive. And one of the most difficult activities for a historical dancer is translating printed dance instructions (a sequence of figures) into coherent motion.
+
+Since figures are the heart of country dancing, it should come as no surprise both that there are many of them and that in an age before mass standardization the same terms meant different things to different people. Dance instructions tend to be terse, so the art of reconstruction is to take the explanations of figures in treatises and apply them to dances found in other books. This is rarely as straightforward as it sounds, but since it is an art you should expect to use your own creativity to fudge things enough to make it work.
+
+But I'm getting ahead of myself. Before figuring out how to fit figures together, we should go over some basic ones. Rather than attempt an exhaustive list, I've chosen to explain all of the figures found in [Cantelo], so that you can dance the dances he collected.
+
+Bolded terms have their own entry.
+
+** Allemande
+TODO (Cantelo, 1: allemande round to the right)
+** Cast off[fn::AD, 37-38]
+Usually two bars, sometimes stretched to four.
+
+Turn /up/, and continue turning until you're facing outside (so, a 180° turn). Dance a half-loop to end up in the place beneath you. It will feel like you took the long way around, which is correct.
+
+If that space is filled by someone, they need to get out of the way by *stepping up* (which I've never seen explicitly mentioned).
+
+Sometimes the indication is to ``cast off two couples", in which case the half-loop should end two places beneath you (and the two people below you would *step up*).
+
+Sometimes called ``casting down", but ``off" is by far more common.
+
+** Cast up[fn::AD, 38]
+Identical to *casting off*, except going up instead of down.
+
+** Cross [by the right/left]
+Two bars, sometimes one. Two people facing each other.
+
+Take hands (right hands unless told otherwise) and exchange places, traveling around each other in a graceful semicircle.
+
+** Ditto (D°)
+Not a real figure—just an indication that the previous figure should be repeated with different people.
+
+** Foot It
+Set (see above), for two, four, eight, or more bars. If setting ``to" someone, face them. If next to someone who is also setting, you may wish to take hands with them.
+
+** Gallop
+Obscure. I suggest reading it as *lead*, but using a galloping step instead of a more usual traveling step. ``Gallop down two Couple, up again, and cast off"[fn::Cantelo, 1] means that the first couple takes hands, gallops down the center of the set until they're betwen the third couple, turns around (without releasing hands), gallops back up the center of the set until they're at the top, and then *casts off* into second place.
+
+** [Three/Four] Hands Across [to the Left/Right] [and back][fn::AD, 42]
+Three or four people; each direction is four bars.
+
+Everyone takes the specified hand (forming a sort of star shape) and moves in a circle, ending where they began.  If "and back" is specified, go in one direction for four bars (whether it's a full revolution or not), then turn around and retrace your steps the other way for another four bars.
+
+For four hands across, it's elegant to take a shake-hands grip with the person diagonally across from you, then have the two handshakes (four hands) rest on top of each other. It is definitely not elegant to have a jumbled mass of four hands, but sometimes it happens.
+
+** Hands Round
+See *Turn…Hands Round*.
+
+** Lead
+Almost any number of bars. Two people.
+
+** Right[s] and Left[s][fn::AD, 25-26]
+Four or eight bars (very fast when it's done in four), for two couples.
+
+The golden rule of rights and lefts is that everyone moves in a circle starting in the direction they're facing. So the first man and second woman go clockwise and the first woman and second man go counter-clockwise.
+
+Specifically, each couple *crosses by the right*, turns 90° to face their neighbor, *crosses by the /left/* with their neighbor, turns 90° to face their partner, and repeats the process (another cross by the right, another cross by the left) to end up back in place.
+
+A common mistake is to turn 270°. This sounds ridiculous on paper, but it's startling how many people do it in real life. It's best if peple think of it as traveling in a circle, assisted by taking hands with someone every quarter-circle.
+
+It's especially easy to do rude things with your arms, so be careful.
+
+** Step Up
+Not a period term, as far as I know. Taking a few sidesteps until you end up one place higher (e.g., someone in second place could step up into first place). There are more and less elegant ways of doing the sidesteps, but don't worry about it.
+
+** Turn
+Two or four bars.
+
+Take hands (by default, right in right) and turn 360°. See below chapter on arms.
+
+** [Turn] Three/Four/Six/Eight Hands [the] Round[fn::AD, 42-43, 50]
+The requisite number of people take hands in a circle and move (by slip stepping) in the direction indicated. If no direction is specified, assume it's to the right (counter-clockwise). End where you started.
+
+
 
 * Your Arms
 
@@ -271,7 +350,8 @@ Progression can be intimidating since it feels like math, but rest assured that 
 
 * Works Cited
 
-- [AD] A. D. Dancing Master. /Country-Dancing made Plain and Easy to Every Capacity/. London, 1764.
+- [AD] A. D. Dancing Master. /Country-Dancing made Plain and Easy to Every Capacity/. T. Durham: London, 1764.
+- [Cantelo] Cantelo. /Twenty Four American Country Dances as Danced by the British during their Winter Quarters/. Longman & Broderip: London, 1783.
 - [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/.
-- [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. Aberdeen, 1805.
-- [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. London, [1820].
+- [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. J. Chalmers & Co: Aberdeen, 1805.
+- [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. Sherwood, Neeley and Jones: London, [1820].
