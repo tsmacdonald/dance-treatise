@@ -73,7 +73,9 @@ Instead, I have dancers start by doing a elementary-school-style gallop in a cir
 Francis Peacock suggests that one ``may introduce a very lively" variation by, effectively, galloping by four and four instead of by two and two. When dancing it does make a surprisingly big difference, both to the dancer and to the observers!
 
 *** Slip Stepping
-TODO
+If you imagine ``galloping to the side" you probably have it right.
+
+Slightly more technically, stand on your toes, move your first leg out and transfer weight to it, then move your second leg until your heels touch. Use the impact of the heels touching to kick your first leg back out, and repeat ad nauseum.
 
 ** In three (quicktime)
 Shockingly, there are a number of period dances in three (almost always 9/8) and, as far as I know, zero explanations of the relevant footwork. The folk tradition has two candidates. Both are based on skip-change-of-step as explained above, but need to have six bits instead of four bits to work in the new meter. Choose your favorite; it doesn't really matter which one you do.
@@ -151,6 +153,9 @@ Be careful to stay in the same spot on the floor; it's easy to drift backwards[f
 - *Center line*: An imaginary line going through the center of the set from top to bottom
 - *In*: Towards the center line
 - *Out*: Away from the center line
+- *Up and down the set*: In a line parallel to the center line
+- *Across the set*: In a line perpendicular to the center line
+- *Sideline*: Where everyone of the same gender starts
 - *Minor set*: A portion of the set that's doing an iteration of the dance together. In a three-couple dance, this is a group of three couples (even if the entire set has twenty couples).
 - *Active (or first) couple*: The couple that starts at the top of a minor set and tends to play the most involved role in the dance. Also called the *ones*.
 - *Supporting couples*: The couples in a minor set that are not the active couple. They still dance, though!
@@ -159,6 +164,10 @@ Be careful to stay in the same spot on the floor; it's easy to drift backwards[f
 - *First, second, third, etc. place* The spot on the floor initially occupied by the first (or whichever) couple. As the dance continues, the second couple may, for example, end up in first place, so it can be helpful to refer to things in terms of geography instead of people.
 - *Out (or neutral[fn::As Thomas Wilson calls them]) couples*: Couples not currently included in a minor set, who aren't dancing a particular iteration of the dance. They will dance later, though!
 - *Neighbor*: The person next to you. For the first man, it's the second man. In a three-couple set, the second (wo)man has two neighbors: the first and third (wo)men.
+- *First corner*: The person (dancing as the opposite gender) across and to the right from you. By convention this assumes that the ones are in second place. So the first man's first corner is the third woman (and vice versa) and the first woman's first corner is the second man. You might prefer to think of this as ``your first corner is the opposite-gendered person you find along the *first diagonal*".
+- *Second corner*: c.f. *first corner*, but to the /left/, not the /right/. So the first man's second corner is the second woman and the first woman's second corner is the third man. Also c.f. *second diagonal*.
+- *First diagonal*: A diagonal line extending from first place on the men's side to the last place on the women's side.
+- *Second diagonal*: A diagonal line extending from first place on the women's side to last place on the men's side.
 
 * Progression
 
@@ -205,7 +214,7 @@ A and D, having reached the bottom/top, *change roles*. D becomes active and dan
 
 **** More iterations
 The logic is the same, but the order is thus (brackets indicate minor sets):
-| At the start of the _____ iteration | The order is     |
+| At the start of the _____ iteration | The order is:    |
 |---------------------------------+------------------|
 | 8th                             | E, [D, F], [C, A], B |
 | 9th                             | [E, F], [D, A], [C, B] |
@@ -245,13 +254,14 @@ Regardless, at the end of the fifth iteration the order is C, D, B, E, F, A.
 
 **** More iterations
 
-| At the start of the _____ iteration | The order is                 |                                                              |
-|-----------------------------------+------------------------------+--------------------------------------------------------------|
-| 6th                               | C, D, [B, E, F] A            |                                                              |
-| 7th                               | [C, D, E], [B, F, A]         | A, having sat out at the bottom, becomes a supporting couple |
-| 8th                               | D, [C, E, F], [B, A, ghosts] |                                                              |
-| 9th                               | D, E, [C, F, A], B           |                                                              |
-| 10th                              | [D, E, F], [C, A, B]         |                                                              |
+| At the start of the ___ iteration  | The order is:                |
+|----------------------------------+------------------------------|
+| 6th                              | C, D, [B, E, F], A           |
+| 7th                              | [C, D, E], [B, F, A]         |
+| 8th                              | D, [C, E, F], [B, A, ghosts] |
+| 9th                              | D, E, [C, F, A], B           |
+| 10th                             | [D, E, F], [C, A, B]         |
+/Note that since A sat out at the bottom the sixth time through, they become a supporting couple the seventh time through/.
 
 And so on and so forth. The dance continues until the music stops! It takes longer to become an active couple in triple minors (since a new couple is activated every three times instead of every other time), so be prepared for them to be run more times to compensate.
 
@@ -284,7 +294,7 @@ If that space is filled by someone, they need to get out of the way by *stepping
 
 Sometimes the indication is to ``cast off two couples", in which case the half-loop should end two places beneath you (and the two people below you would *step up*).
 
-Sometimes called ``casting down", but ``off" is by far more common.
+Sometimes called ``casting down", but ``off" is more common.
 
 ** Cast up[fn::AD, 38]
 Identical to *casting off*, except going up instead of down.
@@ -300,8 +310,13 @@ Not a real figure—just an indication that the previous figure should be repeat
 ** Foot It
 Set (see above), for two, four, eight, or more bars. If setting ``to" someone, face them. If next to someone who is also setting, you may wish to take hands with them.
 
-** Gallop
-Obscure. I suggest reading it as *lead*, but using a galloping step instead of a more usual traveling step. ``Gallop down two Couple, up again, and cast off"[fn::Cantelo, 1] means that the first couple takes hands, gallops down the center of the set until they're betwen the third couple, turns around (without releasing hands), gallops back up the center of the set until they're at the top, and then *casts off* into second place.
+** Gallop[fn::AD, 18-19]
+The figure is obscure, but I suggest reading it as *lead* but using a galloping step instead of a more usual traveling step. ``Gallop down two Couple, up again, and cast off"[fn::Cantelo, 1] means that the first couple takes hands, gallops down the center of the set until they're betwen the third couple, turns around, gallops back up the center of the set until they're at the top, and then *casts off* into second place.
+
+The galloping step involves facing your partner, joining both hands, and slipping sideways
+
+** Go The Compleat Round[fn:: c.f. [Cantelo, 4]]
+*Hands round* for all dancers.
 
 ** [Three/Four] Hands Across [to the Left/Right] [and back][fn::AD, 42]
 Three or four people; each direction is four bars.
@@ -313,9 +328,36 @@ For four hands across, it's elegant to take a shake-hands grip with the person d
 ** Hands Round
 See *Turn…Hands Round*.
 
-** Lead
+** Half-hey
+*Hey*, but only do half of it. Note that the outside two people will end up trading places and the middle person will end up back in the middle.
+
+** Hey (for three)[fn::AD, 26-27]
+Three dancers, usually eight bars. The dancers should be in a line with two facing each other and the third facing the back of the middle dancer.
+
+The short story is that all three people dance interlocking figure-8s. I don't think pontificating on the mechanics at length is worthwile—it's the sort of thing that needs to be done to be understood. I'm sure you can find a demo on YouTube.
+
+I have yet to see an explicit reference to a ``left-shoulder hey"; the assumption seems to be right-shoulder ones.
+
+It's worth noting that heys could take place across the set, up and down the set, or along a diagonal line.
+
+Everyone should end up where they started.
+
+** Hey (for four)
+Four dancers, eight bars.
+
+Interlocking figure-8s, but for four people in a line (the first two facing each other, the last two facing each other, and therefore the middle two back-to-back). Apart from the headcount, comparable to a *hey for three*.
+
+** Lead Down/Up[fn::AD, 38]
 Almost any number of bars. Two people.
 
+Take near hands and dance down/ up the center line. When leading down and up sequentially, switch hands when you turn around, so that near hands are always held[fn::Modern dancers usually keep right hand in right and don't release while turning around].
+
+** Lead Outsides[fn::AD, 47]
+Three couples, eight bars. Active couple in the center, others in corner positions as fenceposts.
+
+The active couple start facing the men's sideline from the center of the set, with the woman above the man, and take near hands (man's right and woman's left). To get into this position you might need to fudge the previous figure a little bit.
+
+They dance out the men's sideline, release hands, dance around the corner they're closest to (man around the third man, woman around the second man), meet in the center (having re-entered from the top or bottom of the set), face out the women's sideline, take hands (woman's right in man's left) and repeat the process with the women (man around the third woman, woman woman around the second woman). They end in the center of the set.
 ** Right[s] and Left[s][fn::AD, 25-26]
 Four or eight bars (very fast when it's done in four), for two couples.
 
@@ -326,15 +368,24 @@ Specifically, each couple *crosses by the right*, turns 90° to face their neigh
 A common mistake is to turn 270°. This sounds ridiculous on paper, but it's startling how many people do it in real life. It's best if peple think of it as traveling in a circle, assisted by taking hands with someone every quarter-circle.
 
 It's especially easy to do rude things with your arms, so be careful.
+** Set Cross Corners and Turn[fn::I believe this is the same figure as ``Foot Contrary Corners, and Turn'' described in [AD, 32]]
+Eight bars. Three couples, with the active couple in the center of the set facing their corners.
 
+The active couple takes right hands with the corner they're facing, and then turns them. The corners end where they started and the active couple ends facing their second corners, which they also set to and turn. The active couple ends in the center of the set unless otherwise indicated.
+
+In some sources[fn::e.g. [Cantelo, 3]], only the first half of the above is meant (which is a moot point since Cantelo follows it up with a ``Ditto" to get the second half).
 ** Step Up
 Not a period term, as far as I know. Taking a few sidesteps until you end up one place higher (e.g., someone in second place could step up into first place). There are more and less elegant ways of doing the sidesteps, but don't worry about it.
 
 ** Turn
-Two or four bars.
+Two or four bars; two people.
 
 Take hands (by default, right in right) and turn 360°. See below chapter on arms.
 
+** Turn to Place
+Two or four bars; two people.
+
+Turn until you end in the correct place (which may be your starting place or may be your progressed place) on your own sideline. This may involve turning some weird number of degrees that's not an even number of half turns and it may involve different couples turning different amounts (e.g., if first couple were on opposite sides but second and third couples were proper, ``all turn to place" would mean that the first couple does a half turn and the second and third couples do a full turn). You're allowed to add full turns as time allows—in the previous example the first couple may have seen fit to do a turn and a half instead of just a half turn.
 ** [Turn] Three/Four/Six/Eight Hands [the] Round[fn::AD, 42-43, 50]
 The requisite number of people take hands in a circle and move (by slip stepping) in the direction indicated. If no direction is specified, assume it's to the right (counter-clockwise). End where you started.
 
