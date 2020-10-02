@@ -18,6 +18,11 @@ Instead, this is intended as a crash course to get late 18th- and early 19th-cen
 - I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /roles/, and not an indication of any larger personal truth. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
 
 * Position and Posture
+#+BEGIN_QUOTE
+/Position/ is the foundation, or basis, upon which the principles of the art of Dancing are founded; for without good position, action, however animated it may be, can neer thoroughly please.
+
+—Francis Peacock[fn::Peacock, 67-68]
+#+END_QUOTE
 
 Dancing is frequently defined as ``moving to music", but  there is much to be said for looking the part even when /not/ moving. A room full of people slouching looks disheveled; a room full of people standing like dancers looks like an Event.
 
@@ -40,6 +45,14 @@ The position of a standing dancer, then, is standing up straight, having good tu
 The specifics of footwork will be addressed below, but all propulsion should maintain turnout. When taking a step lead with the toe and let the toe strike the ground first. At sufficient speeds the heels may never even hit the ground. This is similar to the Prussian step, with its feet reaching out over the ground to glide over it, but…dancier.
 
 * Traveling Steps
+#+BEGIN_QUOTE
+I would recommend the use of the most simple and neatly constructed steps in this kind of dancing:
+practice will enable the dancer to perform them in that correct, light, and prompt manner, which
+the nature of the music requires.
+
+—Barclay Dun[fn::Dun, 19-20]
+#+END_QUOTE
+
 One of the biggest differences between period dancing and modern English country dancing is simply how one moves. In the period, nobody walked. The single biggest improvement reenactors could make to their dancing is by using a dance step to move around!
 
 ** In two or four
@@ -48,7 +61,7 @@ Most dancing is in reel time, which in the 18th century was either 2/2 or 6/8. S
 *** Skipping[fn::AD, 14]
 The most basic option. You can call it as "right-hop-left-hop".
 
-1. With your weight on your left leg, reach out with your right foot (toe pointed! Turnout maintained!) and step onto it.
+1. With your weight on your left leg, reach out with your right foot (toe pointed![fn::Dun, 27] Turnout maintained!) and step onto it.
 2. Hop forward on your right foot.
 3. With your weight now on your /right/ leg, reach out with your left foot and step onto it.
 4. Hop forward on your left foot.
@@ -100,7 +113,6 @@ Shockingly, there are a number of period dances in three (almost always 9/8) and
 In other words, steps 1 and 2 are repeated before continuing on as normal.
 
 I have only ever taught these by demonstrating, explaining the basics in words, and then playing 9/8 music for several minutes while letting people roam around the dance floor working it out on their own. There may be a better way of doing this, but that's for you to figure out. It certainly shouldn't be attempted until people are very confident doing it in 2.
-
 * Setting Steps
 
 Setting (also known as ``footing it") is where individual creativity can best shine. As far as I can tell there are no real rules to doing it right; one simply bops around to the allotted music while staying in roughly the same spot on the floor. Peacock lists quite a few options for setting and concludes with: ``I shall only add, that you have it in your power to change, divide, add to, or invert, the different steps described, in whatever way you think best adapted to the tune, or most pleasing to yourself"[fn::Peacock, 98].
@@ -390,19 +402,47 @@ Turn until you end in the correct place (which may be your starting place or may
 The requisite number of people take hands in a circle and move (by slip stepping) in the direction indicated. If no direction is specified, assume it's to the right (counter-clockwise). End where you started.
 
 
-
 * Your Arms
+#+BEGIN_QUOTE
+I cannot but deplore the disgraceful neglect that is so apparent in most dancers with regard
+to the proper use of their arms, as surely this is of as much consequence as the management
+of their legs; since…the use of the one is fully as necessary as that of the other. Even in walking,
+what a ridiculous figure the person must display who disregards that regular counter-motion which
+whould ever be maintained by the arms and legs!
 
+—Barclay Dun[fn::Dun, 20-21]
+#+END_QUOTE
+It's easy to focus on where you're going and how you get there—figures and progression and such. And even once you're mostly on top of it, there's a temptation to refine footwork. This attitude is not misplaced, but one mustn't forget one's arms, either.
+
+A few general notes on etiquette and decorum:
+
+1. *Never ever ever* hurt another dancer by grabbing them too tightly, twisting their arm, straining their shoulder, or doing anything similar. If you're not sure if something is going to hurt, /don't do it/. If you are being hurt, speak up.
+2. Even with the best intentions, sometimes people hold on for too long. If someone is trying to release their hand from your grip (say, because they're trying to get in position for the next figure), let them go! It's particularly common for people to hold on too long while doing rights and lefts, for whatever reason.
+3. I can't think of a time w;here you should lock elbows. Even with ``straight" arms, give your elbows a slight bend. It's better for them orthopedically, and the curve is more aesthetic.[fn::[Dun, 28] compares the curve of the hey figure with Hogarth's Line of Beauty, and that same S-shaped curve can frequently be formed by two arms]
+4. When giving your hand to someone—or recevining someone else's hand—make eye contact with them[fn::Dun, 28]!
+
+There are a couple different ways of taking hands (c.f. [AD 16]), but for now focus on what's call the ``shake-hands grip", which is a slight misnomer. It's achieved by almost shaking hands with someone, but instead of touching palm and palm, touch fingers and fingers (four in four). This has several benefits, notably:
+
+1. It looks good.
+2. It's easy to get into.
+3. It's easy to get out of.
+4. It allows for some tension—when turning, it's best to lean back and let your partnet counterbalance some of your weight.
+
+Try to avoid the bro handshake thing of hooking thumb and thumb. Certainly avoid interlacing fingers.
 * Of the Music
-
-* On Being Polite
+TODO, but I'm honestly not sure what to put here. Do you have suggestions?
 
 * Graded Dances
+TODO: Transcribe the progressively-harder dances I wrote for the Hancock House event.
+
+* 24 American Country Dances
+TODO: Reconstruct [Cantelo]
 
 * Works Cited
 
 - [AD] A. D. Dancing Master. /Country-Dancing made Plain and Easy to Every Capacity/. T. Durham: London, 1764.
 - [Cantelo] Cantelo. /Twenty Four American Country Dances as Danced by the British during their Winter Quarters/. Longman & Broderip: London, 1783.
+- [Dun] Dun, Barclay. /A Translation of Nine of the Most Fashionable Quadrilles […] A Few Observations on the Style, &c. of the Quadrille, the English Country Dance, and the Scotch Reel/. William Wilson & Co: Edinburgh, 1818.
 - [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/.
 - [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. J. Chalmers & Co: Aberdeen, 1805.
 - [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. Sherwood, Neeley and Jones: London, [1820].
