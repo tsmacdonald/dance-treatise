@@ -13,9 +13,9 @@ Instead, this is intended as a crash course to get late 18th- and early 19th-cen
 
 - Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations is out of scope.
 
-- I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible.
+- I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible and consult with experts.
 
-- I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /roles/, and not an indication of any larger personal truth. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
+- I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /temporary roles/, and notmeant to be an indication of anything larger. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
 
 * Position and Posture
 #+BEGIN_QUOTE
@@ -317,7 +317,7 @@ Two bars, sometimes one. Two people facing each other.
 Take hands (right hands unless told otherwise) and exchange places, traveling around each other in a graceful semicircle.
 
 ** Ditto (D°)
-Not a real figure—just an indication that the previous figure should be repeated with different people.
+Not a real figure—just an indication that the previous figure should be repeated (probably with different people, as indicated).
 
 ** Foot It
 Set (see above), for two, four, eight, or more bars. If setting ``to" someone, face them. If next to someone who is also setting, you may wish to take hands with them.
@@ -335,7 +335,7 @@ Three or four people; each direction is four bars.
 
 Everyone takes the specified hand (forming a sort of star shape) and moves in a circle, ending where they began.  If "and back" is specified, go in one direction for four bars (whether it's a full revolution or not), then turn around and retrace your steps the other way for another four bars.
 
-For four hands across, it's elegant to take a shake-hands grip with the person diagonally across from you, then have the two handshakes (four hands) rest on top of each other. It is definitely not elegant to have a jumbled mass of four hands, but sometimes it happens.
+For four hands across, it's elegant to take a shake-hands grip with the person diagonally across from you and then have the two handshakes (four hands) rest on top of each other. It is definitely not elegant to have a jumbled mass of four hands, but sometimes it happens.
 
 ** Hands Round
 See *Turn…Hands Round*.
@@ -401,6 +401,8 @@ Turn until you end in the correct place (which may be your starting place or may
 ** [Turn] Three/Four/Six/Eight Hands [the] Round[fn::AD, 42-43, 50]
 The requisite number of people take hands in a circle and move (by slip stepping) in the direction indicated. If no direction is specified, assume it's to the right (counter-clockwise). End where you started.
 
+Note that the number refers to the number of people: "three hands round" involves three people holding their /six/ hands together.
+
 
 * Your Arms
 #+BEGIN_QUOTE
@@ -426,7 +428,7 @@ There are a couple different ways of taking hands (c.f. [AD 16]), but for now fo
 1. It looks good.
 2. It's easy to get into.
 3. It's easy to get out of.
-4. It allows for some tension—when turning, it's best to lean back and let your partnet counterbalance some of your weight.
+4. It allows for some tension—when turning, it's best to lean back and let your partner counterbalance some of your weight.
 
 Try to avoid the bro handshake thing of hooking thumb and thumb. Certainly avoid interlacing fingers.
 * Of the Music
@@ -446,3 +448,10 @@ TODO: Reconstruct [Cantelo]
 - [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/.
 - [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. J. Chalmers & Co: Aberdeen, 1805.
 - [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. Sherwood, Neeley and Jones: London, [1820].
+
+* Known TODOs
+- There are quite a few figures missing
+- Read through the sources and figure out what there is to be said about programming an evening
+- Use a real citation format
+- Think about formatting
+- Add figures? Either hand-drawn, lifted from [AD], or both.
