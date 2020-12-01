@@ -8,15 +8,17 @@ Though I do not pretend, by this little treatise, to make any person a perfect m
 
 This is neither a period book nor a scholarly one—for the first, turn to one of the many treatises by 18th-century dancing masters; for the second, academia already has you covered.
 
-Instead, this is intended as a crash course to get late 18th- and early 19th-century reenactors with minimal country dancing experience prepared for a Saturday evening dance. Its first goal is to be practical; a secondary goal is to be historically-defensible. Anyone who claims to do truly historically /correct/ dancing is lying: sources are simply too scarce, and those that exist are too open to interpretation.  What follows is the result of my time with a few dance treatises, more than a few books of dance music, various other written primary sources, and dozens of country dances as a dancer, as a musician, as a dancing master, as the least-experienced person in the room by an order of magnitude, and as the most-experienced person in the room by an order of magnitude.
+Instead, this is intended as a crash course to get late 18th- and early 19th-century reenactors with minimal country dancing experience prepared for a Saturday evening dance. Its first goal is to be practical; a secondary goal is to be historically-defensible. Anyone who claims to do truly historically /correct/ dancing is lying: sources are simply too scarce, and those that exist are too open to interpretation.  But even if perfection is unattainable, it's still worth avoiding what's obviously not right.
+
+What follows is the result of my time with a few dance treatises, more than a few books of dance music, various other primary sources, and dozens of country dances as a dancer, musician, dancing master, the least-experienced person in the room, and the most-experienced person in the room.
 
 ** A few disclaimers
 
-- Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations is out of scope.
+- Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations (apart from a few examples) is out of scope.
 
-- I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please only attempt things that seem responsible and consult with experts.
+- I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please consult with experts and only attempt things that seem responsible.
 
-- I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /temporary roles/, and notmeant to be an indication of anything larger. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like, with whichever consenting partner you'd like, regardless of the gender terminology used.
+- I will be using ``man" and ``woman" to indicate the people dancing particular roles. They are /temporary roles/, and not meant to be an indication of anything larger. In the period, dances were sometimes done entirely by men or entirely by women[fn::Wilson, 5]. Every treatise I've read uses gendered terms that assume male/female partners, and it seems a little unhelpful for this book to use seemingly-gender-neutral terms that map directly to the "man" or "woman" you'd see in the treatise. Please dance whichever role you'd like and with whichever consenting partner you'd like, regardless of the gender terminology used.
 
 * Position and Posture
 #+BEGIN_QUOTE
@@ -33,11 +35,19 @@ Finally, good dance position helps prevent minor pains and more serious injuries
 
 ** Standing
 
+#+BEGIN_QUOTE
+/The position of a Soldier without Arms/
+
+He is to stand straight and firm upon his legs […] the toes turned out; the belly drawn in a little, but without constraint; the breast a little projected; the shoulders square to the front, and kept back
+
+—Baron Friedrich Wilhelm von Steuben[fn::von Steuben, 10-11]
+#+END_QUOTE
+
 There is quite a bit of overlap between the position of a period country dancer, the position of a period soldier, and the position of a modern ballet dancer. All emphasize a straight back and open hips (which does /not/ mean pulling your shoulders back and sticking out your belly); the most significant distinction is the position of the feet and arms, which are less important and will be addressed later.
 
-Some people imagine putting headlights on their pelvis and then standing so that the headlights shine parallel to the ground, not down into it (it will feel like you're rotating your pelvis up to bring the beams of light up). Others think of ``zipping up" the stomach—pulling up on the front of the pelvis and tightening the butt muscles. Others speak of avoiding ``Donald Duck butt" or ``leading with the chest". Whatever the method, your vertebrae should end up stacked on top of each other, your shoulders should be above your hips, and the area below the belt should feel…ah...slightly exposed.
+To open their hips, some people imagine putting headlights on their pelvis and then standing so that the headlights shine parallel to the ground, not down into it (it will feel like you're rotating your pelvis up to bring the beams of light up). Others think of ``zipping up" the stomach—pulling up on the front of the pelvis and tightening the butt muscles. Others speak of ``avoiding Donald Duck butt" or ``leading with the chest". Whatever the method, your vertebrae should end up stacked on top of each other, your shoulders should be above your hips, and the area below the belt should feel…slightly exposed.
 
-This established, it's then easy to have good turnout. Turnout comes not from the knees (twisting the knees will wreck them) but from the hips. Opening up the hips as above lets each leg rotate out in its entirety; your heels will naturally come to the center and your toes will naturally point more to the side. Having good turnout and ``being a flexible person" are mostly unrelated; achieving turnout is more about technique than having lengthened muscles. Don't worry about exactly what angle your feet make; 90° is great. Ballet dancers can do 180°, but we're not doing ballet.
+This established, it's then easy to have good turnout. Turnout comes not from the knees (twisting the knees will wreck them) but from the hips. Opening up the hips as above lets each leg rotate out in its entirety; your heels will naturally come to the center and your toes will naturally point more to the side. Having good turnout and ``being a flexible person" are mostly unrelated[fn::I personally have been gifted with excellent turnout and yet can't touch my toes or straighten my back when sitting on the floor.]; achieving turnout is more about technique than having lengthened muscles. Don't worry about exactly what angle your feet make; 90° is great. Ballet dancers can do 180°, but we're not doing ballet.
 
 The position of a standing dancer, then, is standing up straight, having good turnout, letting the heels touch each other and the feet form a 90° angle, and letting the arms rest loosely at one's sides (the elbows with a natural bend).
 
@@ -482,6 +492,7 @@ TODO: Reconstruct [Cantelo]
 - [Dun] Dun, Barclay. /A Translation of Nine of the Most Fashionable Quadrilles […] A Few Observations on the Style, &c. of the Quadrille, the English Country Dance, and the Scotch Reel/. William Wilson & Co: Edinburgh, 1818.
 - [Macdonald] Macdonald, Timothy S. ``Strathspeys, Reels, and Strathspey Reels: Clarifying Dance Music in Lowland Scotland 1750-1833" Awaiting publication in /The Proceedings of the 2018 North Atlantic Fiddle Convention/.
 - [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. J. Chalmers & Co: Aberdeen, 1805.
+- [von Steuben] [von Steuben, Friedrich Wilhelm]. /Regulations for the Order and Discipline of the Troops of the United States/. Styner and Cist: Philadelphia, 1779.
 - [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. Sherwood, Neeley and Jones: London, [1820].
 
 - TODO: Agnes Hume MS GB-En Adv MS 5.2.17
