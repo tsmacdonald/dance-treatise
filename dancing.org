@@ -1,3 +1,4 @@
+#+LATEX_HEADER: \usepackage[stable]{footmisc}
 * Foreword
 #+BEGIN_QUOTE
 Though I do not pretend, by this little treatise, to make any person a perfect master of Country-dancing, yet, with the help of these my instructions, and their taking some opportunities of going into company, and by the assistance of a good partner, begin with some easy dances, by which any one, having a good ear to music, may very soon become a proficient.
@@ -401,7 +402,7 @@ Turn until you end in the correct place (which may be your starting place or may
 ** [Turn] Three/Four/Six/Eight Hands [the] Round[fn::AD, 42-43, 50]
 The requisite number of people take hands in a circle and move (by slip stepping) in the direction indicated. If no direction is specified, assume it's to the right (counter-clockwise). End where you started.
 
-Note that the number refers to the number of people: "three hands round" involves three people holding their /six/ hands together.
+Note that the number refers to people, not literal hands: "three hands round" involves three people holding their /six/ hands together.
 
 
 * Your Arms
@@ -419,11 +420,11 @@ It's easy to focus on where you're going and how you get there—figures and pro
 A few general notes on etiquette and decorum:
 
 1. *Never ever ever* hurt another dancer by grabbing them too tightly, twisting their arm, straining their shoulder, or doing anything similar. If you're not sure if something is going to hurt, /don't do it/. If you are being hurt, speak up.
-2. Even with the best intentions, sometimes people hold on for too long. If someone is trying to release their hand from your grip (say, because they're trying to get in position for the next figure), let them go! It's particularly common for people to hold on too long while doing rights and lefts, for whatever reason.
-3. I can't think of a time w;here you should lock elbows. Even with ``straight" arms, give your elbows a slight bend. It's better for them orthopedically, and the curve is more aesthetic.[fn::[Dun, 28] compares the curve of the hey figure with Hogarth's Line of Beauty, and that same S-shaped curve can frequently be formed by two arms]
-4. When giving your hand to someone—or recevining someone else's hand—make eye contact with them[fn::Dun, 28]!
+2. Even with the best intentions, sometimes people hold on for too long. If someone is trying to release their hand from your grip (say, because they're trying to get in position for the next figure), let them go! For whatever reason, it's particularly common for people to hold on too long while doing rights and lefts.
+3. I can't think of a time where you should lock elbows. Even with ``straight" arms, give your elbows a slight bend. It's better for them orthopedically, and the curve is more aesthetic.[fn::[Dun, 28] compares the curve of the hey figure with Hogarth's Line of Beauty, and that same S-shaped curve can frequently be formed by two arms]
+4. When giving your hand to someone—or receiving someone else's hand—make eye contact with them[fn::Dun, 28]!
 
-There are a couple different ways of taking hands (c.f. [AD 16]), but for now focus on what's call the ``shake-hands grip", which is a slight misnomer. It's achieved by almost shaking hands with someone, but instead of touching palm and palm, touch fingers and fingers (four in four). This has several benefits, notably:
+There are a couple different ways of taking hands (c.f. [AD 16]), but for now focus on what's call the ``shake-hands grip", which is a slight misnomer. It's achieved by almost shaking hands with someone, but instead of touching palm and palm, touch fingers and fingers. It should feel like your four fingers are hooked around their four fingers and you're both slightly pulling on each other. This has several benefits, notably:
 
 1. It looks good.
 2. It's easy to get into.
@@ -431,8 +432,42 @@ There are a couple different ways of taking hands (c.f. [AD 16]), but for now fo
 4. It allows for some tension—when turning, it's best to lean back and let your partner counterbalance some of your weight.
 
 Try to avoid the bro handshake thing of hooking thumb and thumb. Certainly avoid interlacing fingers.
+
 * Of the Music
-TODO, but I'm honestly not sure what to put here. Do you have suggestions?
+A lot could be said about music, but this is a dance manual, not a music manual, so I'm going to assume you have access to a reasonable dance musician. There are a couple things dancers—and especially dance teachers—should be aware of though.
+
+** Tune Types
+
+ - *Reels:* The most common. In 2/2.
+ - *Jigs:* The same general idea as reels (same speed, traveling step, etc.), but in 6/8. Some people struggle to hear the difference between 2/2 (notes in groups of two or four) and 6/8 (notes in groups of three).
+ - *9/8 Jigs:* Also called *slip jigs*, especially by the Irish. Jigs, but in 9/8 (three groups of three) instead of 6/8. See earlier commentary about dancing in three instead of in two. You'd count a 6/8 jig ``one and two and" and a 9/8 jig ``one and a two and a" (or ``one two three one two three").
+ - *3/2 Hornpipes:* To round out the mathematical possibilities, these are in three (like 9/8 jigs) but have notes in groups of two or four (like reels). Count them ``one and two and three and". They dramatically faded in popularity at the end of the 18th century (the same time that 4/4 hornpipes started getting trendy), but that's a topic for another day.
+ - *Waltzes:* In three. I'm sure you've heard a waltz before.
+ - *Country Dance Tunes:* Especially with English dancing, and /especially/ if someone is sneaking in Playford dances[fn::They shouldn't be!], you might get tunes that are their own thing and don't really fit one of the above categories. That's okay. Just listen for the beat and figure out if it's in two or three.
+ - *Other Tunes:* I'm deliberately avoiding discussion of more niche options, like 4/4 hornpipes, minuets and other Continental court dances, and so forth. If you have a minuet-shaped problem in your life, you're already too cool for this book.
+
+Some people struggle to hear the difference between reels and jigs. The rule of thumb is that if you can fit in a lot of four-syllable words/phrases that start stressed (the classic is ``alligator", perhaps a more obvious one is ``reel-y reel-y")  singing along with the tune it's a reel. If you can fit in a lot of three-syllable ones (``jiggity jiggity" is the classic) it's a jig. Note that the waters get muddied by tunes having a mix of eigth notes and quarter notes, so you might have to throw in a few filler words. See the figure for some examples.
+
+#+CAPTION: A couple possibilities for matching words to rhythms
+[[./img/tune-rhythms.png]]
+
+#+BEGIN_EXPORT latex
+\clearpage
+#+END_EXPORT
+
+** Counting
+It's obviously important to know how much dancing is supposed to go along with how much music, and the key to figuring it out is counting. Some people count by bars and some by ``steps" (beats), which is the same idea but twice or thrice as much work (depending on if the tune is in two or three). It doesn't matter, but I like to use bars and will do so here.
+
+The first step in counting by bars is to train your ear to hear them. A useful exercise (assuming someone present knows what they're doing) is to go through each tune type and have participants:
+
+1. Tap their foot on the beat.
+2. Tap their foot on the first beat of each bar and clap on the remaining beat(s) of each bar.
+3. Tap their foot only on the first beat of every fourth bar (the first, the fifth, etc.).
+4. Tap their foot only on the first beat of every eight bar (the first, the ninth, etc.).
+5. Form sets and have each couple take turns dancing down the middle and back, being sure to time their turnaround well. Have them try going down for two, four, and eight bars.
+
+With the basics established, it's dependent on the dancing master to ensure figures are being done for an appropriate number of bars. At the very least, the dancing master should know how many bars each figure is supposed to take, and coordinate with the musician to make sure things are happening on time.
+
 
 * Graded Dances
 TODO: Transcribe the progressively-harder dances I wrote for the Hancock House event.
@@ -449,9 +484,16 @@ TODO: Reconstruct [Cantelo]
 - [Peacock] Peacock, Francis. /Sketches Relative to the History and Theory but more especially to the Practice of Dancing/. J. Chalmers & Co: Aberdeen, 1805.
 - [Wilson] Wilson, Thomas. /The Complete System of English Country Dancing/. Sherwood, Neeley and Jones: London, [1820].
 
+- TODO: Agnes Hume MS GB-En Adv MS 5.2.17
+
 * Known TODOs
 - There are quite a few figures missing
 - Read through the sources and figure out what there is to be said about programming an evening
 - Use a real citation format
 - Think about formatting
 - Add figures? Either hand-drawn, lifted from [AD], or both.
+
+* Snippets
+
+"The tun is to be played over through once over every time so the first couple hes time to take their drink and to be danced with as many pair as you please"
+from Agnes Hume MS, transcription by Aaron McGregor
