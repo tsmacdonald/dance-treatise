@@ -1,3 +1,8 @@
+#+TITLE:``A Genteel Exercise''
+#+SUBTITLE: A Layman's Guide to 18th-century Country Dancing
+#+AUTHOR: Tim Macdonald
+#+OPTIONS: toc:nil ^:{} date:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage[stable]{footmisc}
 * Foreword
 #+BEGIN_QUOTE
@@ -8,13 +13,13 @@ Though I do not pretend, by this little treatise, to make any person a perfect m
 
 This is neither a period book nor a scholarly one—for the first, turn to one of the many treatises by 18th-century dancing masters; for the second, academia already has you covered.
 
-Instead, this is intended as a crash course to get late 18th- and early 19th-century reenactors with minimal country dancing experience prepared for a Saturday evening dance. Its first goal is to be practical; a secondary goal is to be historically-defensible. Anyone who claims to do truly historically /correct/ dancing is lying: sources are simply too scarce, and those that exist are too open to interpretation.  But even if perfection is unattainable, it's still worth avoiding what's obviously not right.
+Instead, this is intended as a crash course to get late 18th- and early 19th-century reenactors with minimal country dancing experience prepared for a Saturday evening dance. Its first goal is to be practical; a secondary goal is to be historically-defensible. Anyone who claims to do truly historically /correct/ dancing is lying: sources are simply too scarce, and those that exist are too open to interpretation.  But even if perfection is unattainable, it's still worth avoiding what's obviously not right, and there are a lot of fun discoveries to be made in pursuing the sources we have and doing the dancing as well as we can.
 
-What follows is the result of my time with a few dance treatises, more than a few books of dance music, various other primary sources, and dozens of country dances as a dancer, musician, dancing master, the least-experienced person in the room, and the most-experienced person in the room.
+What follows is the result of my time with a few dance treatises, more than a few books of dance music, various other primary sources, and dozens of country dances as a dancer, musician, dancing master, the least-experienced person in the room trying to figure out what's even going on, and the most-experienced person in the room trying to make things more fun for others.
 
 ** A few disclaimers
 
-- Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations (apart from a few examples) is out of scope.
+- Footnotes to real sources have been added where possible, but there is bound to be some amount of Tim Making Things Up. Also, this document deals indiscriminately with country dancing (and the Scotch Reel) from approximately 1750-1820 in the Highlands of Scotland, the Lowlands of Scotland, urban England, and colonial America. Please don't leave with the impression that dancing was the same at all times in all places; it's just that elaborating on regional and temporal variations (apart from a few examples) is out of scope.
 
 - I have no formal medical training. Suggestions below are based on things I and others do regularly, but if a movement or position causes you serious pain please don't do it, and if you have a pre-existing injury or condition please consult with experts and only attempt things that seem responsible.
 
@@ -458,7 +463,7 @@ A lot could be said about music, but this is a dance manual, not a music manual,
 
 Some people struggle to hear the difference between reels and jigs. The rule of thumb is that if you can fit in a lot of four-syllable words/phrases that start stressed (the classic is ``alligator", perhaps a more obvious one is ``reel-y reel-y")  singing along with the tune it's a reel. If you can fit in a lot of three-syllable ones (``jiggity jiggity" is the classic) it's a jig. Note that the waters get muddied by tunes having a mix of eigth notes and quarter notes, so you might have to throw in a few filler words. See the figure for some examples.
 
-#+CAPTION: A couple possibilities for matching words to rhythms
+#+CAPTION: A few possibilities for matching words to rhythms
 [[./img/tune-rhythms.png]]
 
 #+BEGIN_EXPORT latex
@@ -473,7 +478,7 @@ The first step in counting by bars is to train your ear to hear them. A useful e
 1. Tap their foot on the beat.
 2. Tap their foot on the first beat of each bar and clap on the remaining beat(s) of each bar.
 3. Tap their foot only on the first beat of every fourth bar (the first, the fifth, etc.).
-4. Tap their foot only on the first beat of every eight bar (the first, the ninth, etc.).
+4. Tap their foot only on the first beat of every eighth bar (the first, the ninth, etc.).
 5. Form sets and have each couple take turns dancing down the middle and back, being sure to time their turnaround well. Have them try going down for two, four, and eight bars.
 
 With the basics established, it's dependent on the dancing master to ensure figures are being done for an appropriate number of bars. At the very least, the dancing master should know how many bars each figure is supposed to take, and coordinate with the musician to make sure things are happening on time.
